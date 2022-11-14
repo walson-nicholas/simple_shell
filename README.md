@@ -1,6 +1,6 @@
 
 
-# Nwabueze Franklin & Asiwaju Ifeoluwa
+# Asimiea Nicholas & Harrison Kangaho
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
@@ -46,4 +46,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Nwabueze Franklin](https://github.com/NwabuezeFranklin) and [Asiwaju Ifeoluwa](https://github.com/Asiwajuife).
+All code written by [Asimiea Nicholas](https://github.com/walson-nicholas) and [Harrison Kangaho](https://github.com/KangahoH).
